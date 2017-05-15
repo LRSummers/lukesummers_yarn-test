@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "flexbox": "^0.0.3",
+    "jquery": "^3.2.1",
+    "normalizer": "^1.2.7",
+    "sass": "^0.5.0"
+  }
+}
